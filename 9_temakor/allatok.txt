@@ -1,0 +1,12 @@
+Dumbo;Afrikai elefánt;4500.5;18
+Szimba;Oroszlán;190.2;8
+Mugli;Bengáli tigris;220.5;12
+Kovalszki;Pingvin;4.5;6
+Balu;Barnamedve;350.0;20
+Mufasza;Oroszlán;210.0;14
+Nala;Oroszlán;160.4;13
+Csita;Csimpánz;45.8;25
+Hektor;Víziló;1500.2;16
+Zordon;Oroszlán;195.5;16
+Gedeon;Zsiráf;1100.0;11
+Manci;Afrikai elefánt;3800.0;35

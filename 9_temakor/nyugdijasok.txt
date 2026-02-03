@@ -1,0 +1,6 @@
+Dumbo;Afrikai elefánt
+Balu;Barnamedve
+Csita;Csimpánz
+Hektor;Víziló
+Zordon;Oroszlán
+Manci;Afrikai elefánt
