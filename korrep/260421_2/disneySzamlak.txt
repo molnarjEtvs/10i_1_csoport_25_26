@@ -1,0 +1,140 @@
+Ügyfél neve: Mickey Mouse
+Egyenleg: 37805
+Számlavezetési díj: 6949.599999999999
+##############################
+Ügyfél neve: Donald Duck
+Egyenleg: 68204
+Számlavezetési díj: 5778.299999999999
+##############################
+Ügyfél neve: Goofy
+Egyenleg: 88546
+Számlavezetési díj: 3531.75
+##############################
+Ügyfél neve: Minnie Mouse
+Egyenleg: 36595
+Számlavezetési díj: 4426.8
+##############################
+Ügyfél neve: Pluto
+Egyenleg: 77730
+Számlavezetési díj: 4515.200000000001
+##############################
+Ügyfél neve: Daisy Duck
+Egyenleg: 51412
+Számlavezetési díj: 5288.700000000001
+##############################
+Ügyfél neve: Scrooge McDuck
+Egyenleg: 42341
+Számlavezetési díj: 4616.35
+##############################
+Ügyfél neve: Chip
+Egyenleg: 64707
+Számlavezetési díj: 3738.3
+##############################
+Ügyfél neve: Dale
+Egyenleg: 89680
+Számlavezetési díj: 5538.6
+##############################
+Ügyfél neve: Huey
+Egyenleg: 43499
+Számlavezetési díj: 4503.3
+##############################
+Ügyfél neve: Dewey
+Egyenleg: 77006
+Számlavezetési díj: 5091.5
+##############################
+Ügyfél neve: Louie
+Egyenleg: 53957
+Számlavezetési díj: 4982.7
+##############################
+Ügyfél neve: Clarabelle Cow
+Egyenleg: 67209
+Számlavezetési díj: 5494.4
+##############################
+Ügyfél neve: Pete
+Egyenleg: 43378
+Számlavezetési díj: 6227.1
+##############################
+Ügyfél neve: Max Goof
+Egyenleg: 82617
+Számlavezetési díj: 5571.75
+##############################
+Ügyfél neve: Horace Horsecollar
+Egyenleg: 35935
+Számlavezetési díj: 4384.3
+##############################
+Ügyfél neve: Clarice
+Egyenleg: 50034
+Számlavezetési díj: 4656.299999999999
+##############################
+Ügyfél neve: Morty Fieldmouse
+Egyenleg: 95983
+Számlavezetési díj: 4838.2
+##############################
+Ügyfél neve: Ferdie Fieldmouse
+Egyenleg: 83187
+Számlavezetési díj: 5343.950000000001
+##############################
+Ügyfél neve: Webby Vanderquack
+Egyenleg: 67505
+Számlavezetési díj: 6018.85
+##############################
+Ügyfél neve: Launchpad McQuack
+Egyenleg: 45969
+Számlavezetési díj: 5573.45
+##############################
+Ügyfél neve: Gyro Gearloose
+Egyenleg: 67997
+Számlavezetési díj: 6324.85
+##############################
+Ügyfél neve: Gus Goose
+Egyenleg: 70150
+Számlavezetési díj: 6919.849999999999
+##############################
+Ügyfél neve: Jose Carioca
+Egyenleg: 53154
+Számlavezetési díj: 5119.549999999999
+##############################
+Ügyfél neve: Panchito Pistoles
+Egyenleg: 82824
+Számlavezetési díj: 4896.85
+##############################
+Ügyfél neve: Clara Cluck
+Egyenleg: 93808
+Számlavezetési díj: 5230.9
+##############################
+Ügyfél neve: Darkwing Duck
+Egyenleg: 73035
+Számlavezetési díj: 5728.15
+##############################
+Ügyfél neve: Gadget Hackwrench
+Egyenleg: 58559
+Számlavezetési díj: 5780.0
+##############################
+Ügyfél neve: Monterey Jack
+Egyenleg: 69410
+Számlavezetési díj: 5997.6
+##############################
+Ügyfél neve: Zipper
+Egyenleg: 35662
+Számlavezetési díj: 5916.85
+##############################
+Ügyfél neve: Baloo
+Egyenleg: 59623
+Számlavezetési díj: 4775.3
+##############################
+Ügyfél neve: Kit Cloudkicker
+Egyenleg: 83684
+Számlavezetési díj: 5687.35
+##############################
+Ügyfél neve: Rebecca Cunningham
+Egyenleg: 72435
+Számlavezetési díj: 6008.650000000001
+##############################
+Ügyfél neve: Molly Cunningham
+Egyenleg: 69089
+Számlavezetési díj: 5181.6
+##############################
+Ügyfél neve: Magica De Spell
+Egyenleg: 85980
+Számlavezetési díj: 5536.9
+##############################

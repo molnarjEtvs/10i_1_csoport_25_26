@@ -1,0 +1,78 @@
+Szállás neve: Tóparti Panzió
+Ár/éjszaka/fő: 15000.0 Ft
+Kedvezmény mértéke: 5%
+Kedvezményes éjszaka ára: 14250.0 Ft
+Szabad helyek száma: 11 db
+##############################
+Szállás neve: Hegyi Menedék
+Ár/éjszaka/fő: 13254.0 Ft
+Kedvezmény mértéke: 5%
+Kedvezményes éjszaka ára: 12591.3 Ft
+Szabad helyek száma: 21 db
+##############################
+Szállás neve: Nyári Apartman
+Ár/éjszaka/fő: 9848.0 Ft
+Kedvezmény mértéke: 5%
+Kedvezményes éjszaka ára: 9355.6 Ft
+Szabad helyek száma: 21 db
+##############################
+Szállás neve: Dunaparti Villa
+Ár/éjszaka/fő: 13660.0 Ft
+Kedvezmény mértéke: 5%
+Kedvezményes éjszaka ára: 12977.0 Ft
+Szabad helyek száma: 11 db
+##############################
+Szállás neve: Napsugár Motel
+Ár/éjszaka/fő: 13292.0 Ft
+Kedvezmény mértéke: 10%
+Kedvezményes éjszaka ára: 11962.8 Ft
+Szabad helyek száma: 18 db
+##############################
+Szállás neve: Kék Lagúna
+Ár/éjszaka/fő: 14245.0 Ft
+Kedvezmény mértéke: 10%
+Kedvezményes éjszaka ára: 12820.5 Ft
+Szabad helyek száma: 21 db
+##############################
+Szállás neve: Panoráma Panzió
+Ár/éjszaka/fő: 26930.0 Ft
+Kedvezmény mértéke: 10%
+Kedvezményes éjszaka ára: 24237.0 Ft
+Szabad helyek száma: 21 db
+##############################
+Szállás neve: Meseház Hostel
+Ár/éjszaka/fő: 17618.0 Ft
+Kedvezmény mértéke: 10%
+Kedvezményes éjszaka ára: 15856.2 Ft
+Szabad helyek száma: 21 db
+##############################
+Szállás neve: Fenyőliget Kemping
+Ár/éjszaka/fő: 17068.0 Ft
+Kedvezmény mértéke: 10%
+Kedvezményes éjszaka ára: 15361.2 Ft
+Szabad helyek száma: 21 db
+##############################
+Szállás neve: Hóvirág Apartman
+Ár/éjszaka/fő: 18171.0 Ft
+Kedvezmény mértéke: 10%
+Kedvezményes éjszaka ára: 16353.9 Ft
+Szabad helyek száma: 21 db
+##############################
+Szállás neve: Tiszavirág Vendégház
+Ár/éjszaka/fő: 26051.0 Ft
+Kedvezmény mértéke: 5%
+Kedvezményes éjszaka ára: 24748.45 Ft
+Szabad helyek száma: 15 db
+##############################
+Szállás neve: Kristály Hotel
+Ár/éjszaka/fő: 24537.0 Ft
+Kedvezmény mértéke: 5%
+Kedvezményes éjszaka ára: 23310.15 Ft
+Szabad helyek száma: 10 db
+##############################
+Szállás neve: Tulipán Motel
+Ár/éjszaka/fő: 12889.0 Ft
+Kedvezmény mértéke: 5%
+Kedvezményes éjszaka ára: 12244.55 Ft
+Szabad helyek száma: 21 db
+##############################

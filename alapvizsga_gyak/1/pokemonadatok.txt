@@ -1,0 +1,250 @@
+Dex: 1 
+Név: Bulbasaur 
+Erő/Ugrási magasság: 99.45KP/264.03975m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 2 
+Név: Ivysaur 
+Erő/Ugrási magasság: 119.36KP/316.9008m 
+Képesség / Csoport: loves / fiatal 
+******************************
+Dex: 3 
+Név: Venusaur 
+Erő/Ugrási magasság: 129.45KP/343.68974999999995m 
+Képesség / Csoport: gurulas / idos 
+******************************
+Dex: 4 
+Név: Charmander 
+Erő/Ugrási magasság: 180.0KP/477.9m 
+Képesség / Csoport: tuzhanyas / idos 
+******************************
+Dex: 5 
+Név: Charmeleon 
+Erő/Ugrási magasság: 99.66KP/264.5973m 
+Képesség / Csoport: parolgas / fiatal 
+******************************
+Dex: 6 
+Név: Charizard 
+Erő/Ugrási magasság: 149.34KP/396.4977m 
+Képesség / Csoport: gurulas / idos 
+******************************
+Dex: 7 
+Név: Squirtle 
+Erő/Ugrási magasság: 121.34KP/322.1577m 
+Képesség / Csoport: tuzhanyas / fiatal 
+******************************
+Dex: 8 
+Név: Wartortle 
+Erő/Ugrási magasság: 159.23KP/422.75564999999995m 
+Képesség / Csoport: loves / fiatal 
+******************************
+Dex: 9 
+Név: Blastoise 
+Erő/Ugrási magasság: 131.33KP/348.68115m 
+Képesség / Csoport: gurulas / fiatal 
+******************************
+Dex: 10 
+Név: Caterpie 
+Erő/Ugrási magasság: 138.53KP/367.79715000000004m 
+Képesség / Csoport: tuzhanyas / idos 
+******************************
+Dex: 11 
+Név: Metapod 
+Erő/Ugrási magasság: 199.22KP/528.9291m 
+Képesség / Csoport: tuzhanyas / idos 
+******************************
+Dex: 12 
+Név: Butterfree 
+Erő/Ugrási magasság: 299.99KP/796.4734500000001m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 13 
+Név: Weedle 
+Erő/Ugrási magasság: 309.45KP/821.58975m 
+Képesség / Csoport: gurulas / idos 
+******************************
+Dex: 14 
+Név: Kakuna 
+Erő/Ugrási magasság: 479.22KP/1272.3291000000002m 
+Képesség / Csoport: gurulas / idos 
+******************************
+Dex: 15 
+Név: Beedrill 
+Erő/Ugrási magasság: 511.11KP/1356.99705m 
+Képesség / Csoport: gurulas / idos 
+******************************
+Dex: 16 
+Név: Pidgey 
+Erő/Ugrási magasság: 127.65KP/338.91075000000006m 
+Képesség / Csoport: tuzhanyas / fiatal 
+******************************
+Dex: 17 
+Név: Pidgeotto 
+Erő/Ugrási magasság: 344.34KP/914.2227m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 18 
+Név: Pidgeot 
+Erő/Ugrási magasság: 157.1KP/417.10049999999995m 
+Képesség / Csoport: tuzhanyas / fiatal 
+******************************
+Dex: 19 
+Név: Rattata 
+Erő/Ugrási magasság: 963.45KP/2557.9597500000004m 
+Képesség / Csoport: gurulas / idos 
+******************************
+Dex: 20 
+Név: Raticate 
+Erő/Ugrási magasság: 887.77KP/2357.02935m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 21 
+Név: Spearow 
+Erő/Ugrási magasság: 443.69KP/1177.99695m 
+Képesség / Csoport: gurulas / fiatal 
+******************************
+Dex: 22 
+Név: Fearow 
+Erő/Ugrási magasság: 332.32KP/882.3096m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 23 
+Név: Ekans 
+Erő/Ugrási magasság: 222.32KP/590.2596000000001m 
+Képesség / Csoport: gurulas / idos 
+******************************
+Dex: 24 
+Név: Arbok 
+Erő/Ugrási magasság: 110.12KP/292.3686m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 25 
+Név: Pikachu 
+Erő/Ugrási magasság: 244.34KP/648.7227m 
+Képesség / Csoport: parolgas / idos 
+******************************
+Dex: 26 
+Név: Raichu 
+Erő/Ugrási magasság: 344.94KP/915.8157m 
+Képesség / Csoport: loves / fiatal 
+******************************
+Dex: 27 
+Név: Sandshrew 
+Erő/Ugrási magasság: 554.76KP/1472.8878m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 28 
+Név: Sandslash 
+Erő/Ugrási magasság: 619.34KP/1644.3477m 
+Képesség / Csoport: tuzhanyas / idos 
+******************************
+Dex: 29 
+Név: Nidoran 
+Erő/Ugrási magasság: 183.45KP/487.05974999999995m 
+Képesség / Csoport: gurulas / fiatal 
+******************************
+Dex: 30 
+Név: Nidorina 
+Erő/Ugrási magasság: 115.76KP/307.3428m 
+Képesség / Csoport: tuzhanyas / fiatal 
+******************************
+Dex: 31 
+Név: Nidoqueen 
+Erő/Ugrási magasság: 425.23KP/1128.98565m 
+Képesség / Csoport: tuzhanyas / idos 
+******************************
+Dex: 32 
+Név: Nidoran 
+Erő/Ugrási magasság: 392.46KP/1041.9813m 
+Képesség / Csoport: parolgas / idos 
+******************************
+Dex: 33 
+Név: Nidorino 
+Erő/Ugrási magasság: 180.88KP/480.2364m 
+Képesség / Csoport: parolgas / fiatal 
+******************************
+Dex: 34 
+Név: Nidoking 
+Erő/Ugrási magasság: 190.12KP/504.7686m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 35 
+Név: Clefairy 
+Erő/Ugrási magasság: 215.43KP/571.96665m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 36 
+Név: Clefable 
+Erő/Ugrási magasság: 183.43KP/487.00665m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 37 
+Név: Vulpix 
+Erő/Ugrási magasság: 458.22KP/1216.5741m 
+Képesség / Csoport: tuzhanyas / idos 
+******************************
+Dex: 38 
+Név: Ninetales 
+Erő/Ugrási magasság: 555.44KP/1474.6932000000002m 
+Képesség / Csoport: parolgas / fiatal 
+******************************
+Dex: 39 
+Név: Jigglypuff 
+Erő/Ugrási magasság: 333.66KP/885.8673m 
+Képesség / Csoport: tuzhanyas / idos 
+******************************
+Dex: 40 
+Név: Wigglytuff 
+Erő/Ugrási magasság: 325.85KP/865.1317500000001m 
+Képesség / Csoport: parolgas / idos 
+******************************
+Dex: 41 
+Név: Zubat 
+Erő/Ugrási magasság: 458.21KP/1216.54755m 
+Képesség / Csoport: tuzhanyas / fiatal 
+******************************
+Dex: 42 
+Név: Golbat 
+Erő/Ugrási magasság: 963.14KP/2557.1367m 
+Képesség / Csoport: parolgas / idos 
+******************************
+Dex: 43 
+Név: Oddish 
+Erő/Ugrási magasság: 185.16KP/491.5998m 
+Képesség / Csoport: parolgas / idos 
+******************************
+Dex: 44 
+Név: Gloom 
+Erő/Ugrási magasság: 568.53KP/1509.44715m 
+Képesség / Csoport: tuzhanyas / fiatal 
+******************************
+Dex: 45 
+Név: Vileplume 
+Erő/Ugrási magasság: 963.32KP/2557.6146m 
+Képesség / Csoport: parolgas / idos 
+******************************
+Dex: 46 
+Név: Paras 
+Erő/Ugrási magasság: 478.3KP/1269.8865m 
+Képesség / Csoport: loves / fiatal 
+******************************
+Dex: 47 
+Név: Parasect 
+Erő/Ugrási magasság: 258.11KP/685.28205m 
+Képesség / Csoport: parolgas / idos 
+******************************
+Dex: 48 
+Név: Venonat 
+Erő/Ugrási magasság: 963.23KP/2557.37565m 
+Képesség / Csoport: loves / idos 
+******************************
+Dex: 49 
+Név: Venomoth 
+Erő/Ugrási magasság: 183.67KP/487.64385m 
+Képesség / Csoport: parolgas / fiatal 
+******************************
+Dex: 50 
+Név: Diglett 
+Erő/Ugrási magasság: 966.89KP/2567.09295m 
+Képesség / Csoport: parolgas / idos 
+******************************
